@@ -1,0 +1,2088 @@
+Archive member included because of file (symbol)
+
+/home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(CDC.o)
+                              ./main.o (_ZN7Serial_5beginEj)
+/home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(HardwareSerial.o)
+                              ./main.o (Serial1)
+/home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(Print.o)
+                              /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(CDC.o) (_ZN5Print5writeEPKhj)
+/home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(USBCore.o)
+                              /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(CDC.o) (_Z8USB_Recvh)
+/home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(WString.o)
+                              /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(Print.o) (_ZNK6StringixEj)
+/home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(main.o)
+                              /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/crtm32u4.o (main)
+/home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(malloc.o)
+                              /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(WString.o) (free)
+/home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(new.o)
+                              /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(HardwareSerial.o) (__cxa_pure_virtual)
+/home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(wiring.o)
+                              ./main.o (delay)
+/home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(HID.o)
+                              /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(USBCore.o) (_Z16HID_GetInterfacePh)
+/usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_udivmodsi4.o)
+                              /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(HardwareSerial.o) (__udivmodsi4)
+/usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_exit.o)
+                              /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/crtm32u4.o (exit)
+/usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_copy_data.o)
+                              ./main.o (__do_copy_data)
+/usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_clear_bss.o)
+                              /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(CDC.o) (__do_clear_bss)
+/usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_ctors.o)
+                              /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(CDC.o) (__do_global_ctors)
+/usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_fixunssfsi.o)
+                              /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(Print.o) (__fixunssfsi)
+/usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_addsub_sf.o)
+                              /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(Print.o) (__addsf3)
+/usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_mul_sf.o)
+                              /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(Print.o) (__mulsf3)
+/usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_div_sf.o)
+                              /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(Print.o) (__divsf3)
+/usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_gt_sf.o)
+                              /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(Print.o) (__gtsf2)
+/usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_ge_sf.o)
+                              /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_fixunssfsi.o) (__gesf2)
+/usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_lt_sf.o)
+                              /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(Print.o) (__ltsf2)
+/usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_le_sf.o)
+                              /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(Print.o) (__lesf2)
+/usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_unord_sf.o)
+                              /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(Print.o) (__unordsf2)
+/usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_si_to_sf.o)
+                              /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(Print.o) (__floatsisf)
+/usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_sf_to_si.o)
+                              /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(Print.o) (__fixsfsi)
+/usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_thenan_sf.o)
+                              /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_addsub_sf.o) (__thenan_sf)
+/usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_usi_to_sf.o)
+                              /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(Print.o) (__floatunsisf)
+/usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_prologue.o)
+                              /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_addsub_sf.o) (__prologue_saves__)
+/usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_epilogue.o)
+                              /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_addsub_sf.o) (__epilogue_restores__)
+/usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_tablejump.o)
+                              /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_ctors.o) (__tablejump__)
+/usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_clzsi2.o)
+                              /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_si_to_sf.o) (__clzsi2)
+/usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_clzhi2.o)
+                              /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_clzsi2.o) (__clzhi2)
+/usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_pack_sf.o)
+                              /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_addsub_sf.o) (__pack_f)
+/usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_unpack_sf.o)
+                              /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_addsub_sf.o) (__unpack_f)
+/usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_fpcmp_parts_sf.o)
+                              /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_gt_sf.o) (__fpcmp_parts_f)
+/usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(atol.o)
+                              /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(WString.o) (atol)
+/usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(isspace.o)
+                              /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(WString.o) (isspace)
+/usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(tolower.o)
+                              /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(WString.o) (tolower)
+/usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(toupper.o)
+                              /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(WString.o) (toupper)
+/usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(memcpy.o)
+                              /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(WString.o) (memcpy)
+/usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(memmove.o)
+                              /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(WString.o) (memmove)
+/usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(strchr.o)
+                              /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(WString.o) (strchr)
+/usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(strcmp.o)
+                              /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(WString.o) (strcmp)
+/usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(strcpy.o)
+                              /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(WString.o) (strcpy)
+/usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(strncmp.o)
+                              /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(WString.o) (strncmp)
+/usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(strncpy.o)
+                              /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(WString.o) (strncpy)
+/usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(strrchr.o)
+                              /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(WString.o) (strrchr)
+/usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(strstr.o)
+                              /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(WString.o) (strstr)
+/usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(itoa.o)
+                              /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(WString.o) (itoa)
+/usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(ltoa.o)
+                              /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(WString.o) (ltoa)
+/usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(mulsi10.o)
+                              /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(atol.o) (__mulsi_const_10)
+/usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(ultoa.o)
+                              /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(WString.o) (ultoa)
+/usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(utoa.o)
+                              /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(WString.o) (utoa)
+/usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(cty_isfalse.o)
+                              /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(isspace.o) (__ctype_isfalse)
+/usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(strrev.o)
+                              /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(itoa.o) (strrev)
+/usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_udivmodhi4.o)
+                              /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(itoa.o) (__udivmodhi4)
+
+Allocating common symbols
+Common symbol       size              file
+
+__flp               0x2               /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(malloc.o)
+
+Discarded input sections
+
+ .group         0x0000000000000000        0x8 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(CDC.o)
+ .group         0x0000000000000000        0x8 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(HardwareSerial.o)
+ .group         0x0000000000000000        0x8 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(HardwareSerial.o)
+ .group         0x0000000000000000        0x8 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(Print.o)
+ .group         0x0000000000000000        0x8 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(Print.o)
+ _ZN6LockEPC5Eh
+                0x0000000000000000        0x8 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(USBCore.o)
+ .group         0x0000000000000000        0x8 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(HID.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x0000000000000000 0x0000000000020000 xr
+data             0x0000000000800060 0x000000000000ffa0 rw !x
+eeprom           0x0000000000810000 0x0000000000010000 rw !x
+fuse             0x0000000000820000 0x0000000000000400 rw !x
+lock             0x0000000000830000 0x0000000000000400 rw !x
+signature        0x0000000000840000 0x0000000000000400 rw !x
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+Address of section .data set to 0x800100
+LOAD /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/crtm32u4.o
+LOAD ./main.o
+LOAD /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a
+LOAD /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a
+LOAD /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libm.a
+LOAD /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a
+LOAD /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a
+LOAD /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x0000000000000000     0x4500
+ *(.vectors)
+ .vectors       0x0000000000000000       0xac /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/crtm32u4.o
+                0x0000000000000000                __vectors
+                0x0000000000000000                __vector_default
+ *(.vectors)
+ *(.progmem.gcc*)
+ *(.progmem*)
+ .progmem.data._cdcInterface
+                0x00000000000000ac       0x42 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(CDC.o)
+                0x00000000000000ac                _cdcInterface
+ .progmem.data._initEndpoints
+                0x00000000000000ee        0x5 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(USBCore.o)
+                0x00000000000000ee                _initEndpoints
+ .progmem.data.USB_DeviceDescriptorA
+                0x00000000000000f3       0x12 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(USBCore.o)
+                0x00000000000000f3                USB_DeviceDescriptorA
+ .progmem.data.USB_DeviceDescriptor
+                0x0000000000000105       0x12 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(USBCore.o)
+                0x0000000000000105                USB_DeviceDescriptor
+ .progmem.data.STRING_IMANUFACTURER
+                0x0000000000000117       0x18 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(USBCore.o)
+                0x0000000000000117                STRING_IMANUFACTURER
+ .progmem.data.STRING_IPRODUCT
+                0x000000000000012f       0x22 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(USBCore.o)
+                0x000000000000012f                STRING_IPRODUCT
+ .progmem.data.STRING_LANGUAGE
+                0x0000000000000151        0x4 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(USBCore.o)
+                0x0000000000000151                STRING_LANGUAGE
+ .progmem.data._asciimap
+                0x0000000000000155       0x80 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(HID.o)
+                0x0000000000000155                _asciimap
+ .progmem.data._hidInterface
+                0x00000000000001d5       0x19 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(HID.o)
+                0x00000000000001d5                _hidInterface
+ .progmem.data._hidReportDescriptor
+                0x00000000000001ee       0x65 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(HID.o)
+                0x00000000000001ee                _hidReportDescriptor
+                0x0000000000000254                . = ALIGN (0x2)
+ *fill*         0x0000000000000253        0x1 00
+                0x0000000000000254                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x0000000000000254        0x0 linker stubs
+ *(.trampolines*)
+                0x0000000000000254                __trampolines_end = .
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x0000000000000254                __ctors_start = .
+ *(.ctors)
+ .ctors         0x0000000000000254        0x2 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(CDC.o)
+ .ctors         0x0000000000000256        0x2 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(HardwareSerial.o)
+ .ctors         0x0000000000000258        0x2 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(HID.o)
+                0x000000000000025a                __ctors_end = .
+                0x000000000000025a                __dtors_start = .
+ *(.dtors)
+                0x000000000000025a                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x000000000000025a        0x0 /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/crtm32u4.o
+                0x000000000000025a                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x000000000000025a        0xc /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/crtm32u4.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x0000000000000266       0x16 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_copy_data.o)
+                0x0000000000000266                __do_copy_data
+ .init4         0x000000000000027c       0x10 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_clear_bss.o)
+                0x000000000000027c                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ .init6         0x000000000000028c       0x16 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_ctors.o)
+                0x000000000000028c                __do_global_ctors
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x00000000000002a2        0x8 /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/crtm32u4.o
+ *(.init9)
+ *(.text)
+ .text          0x00000000000002aa        0x4 /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/crtm32u4.o
+                0x00000000000002aa                __vector_38
+                0x00000000000002aa                __vector_22
+                0x00000000000002aa                __vector_28
+                0x00000000000002aa                __vector_1
+                0x00000000000002aa                __vector_32
+                0x00000000000002aa                __vector_34
+                0x00000000000002aa                __vector_24
+                0x00000000000002aa                __vector_12
+                0x00000000000002aa                __bad_interrupt
+                0x00000000000002aa                __vector_6
+                0x00000000000002aa                __vector_31
+                0x00000000000002aa                __vector_35
+                0x00000000000002aa                __vector_39
+                0x00000000000002aa                __vector_3
+                0x00000000000002aa                __vector_30
+                0x00000000000002aa                __vector_13
+                0x00000000000002aa                __vector_17
+                0x00000000000002aa                __vector_19
+                0x00000000000002aa                __vector_7
+                0x00000000000002aa                __vector_41
+                0x00000000000002aa                __vector_27
+                0x00000000000002aa                __vector_5
+                0x00000000000002aa                __vector_33
+                0x00000000000002aa                __vector_37
+                0x00000000000002aa                __vector_4
+                0x00000000000002aa                __vector_9
+                0x00000000000002aa                __vector_2
+                0x00000000000002aa                __vector_21
+                0x00000000000002aa                __vector_15
+                0x00000000000002aa                __vector_36
+                0x00000000000002aa                __vector_29
+                0x00000000000002aa                __vector_40
+                0x00000000000002aa                __vector_8
+                0x00000000000002aa                __vector_14
+                0x00000000000002aa                __vector_16
+                0x00000000000002aa                __vector_18
+                0x00000000000002aa                __vector_20
+                0x00000000000002aa                __vector_42
+ .text          0x00000000000002ae       0x40 ./main.o
+                0x00000000000002ae                setup
+                0x00000000000002d6                loop
+ .text          0x00000000000002ee        0x0 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(CDC.o)
+ .text          0x00000000000002ee        0x0 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(HardwareSerial.o)
+ .text          0x00000000000002ee        0x0 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(Print.o)
+ .text          0x00000000000002ee        0x0 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(USBCore.o)
+ .text          0x00000000000002ee        0x0 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(WString.o)
+ .text          0x00000000000002ee        0x0 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(main.o)
+ .text          0x00000000000002ee        0x0 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(malloc.o)
+ .text          0x00000000000002ee        0x0 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(new.o)
+ .text          0x00000000000002ee        0x0 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(wiring.o)
+ .text          0x00000000000002ee        0x0 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(HID.o)
+ .text          0x00000000000002ee        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_udivmodsi4.o)
+ .text          0x00000000000002ee        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_exit.o)
+ .text          0x00000000000002ee        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_copy_data.o)
+ .text          0x00000000000002ee        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_clear_bss.o)
+ .text          0x00000000000002ee        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_ctors.o)
+ .text          0x00000000000002ee       0x5a /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_fixunssfsi.o)
+                0x00000000000002ee                __fixunssfsi
+ .text          0x0000000000000348      0x370 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_addsub_sf.o)
+                0x0000000000000600                __addsf3
+                0x0000000000000658                __subsf3
+ .text          0x00000000000006b8      0x1ca /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_mul_sf.o)
+                0x00000000000006b8                __mulsf3
+ .text          0x0000000000000882      0x146 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_div_sf.o)
+                0x0000000000000882                __divsf3
+ .text          0x00000000000009c8       0x5e /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_gt_sf.o)
+                0x00000000000009c8                __gtsf2
+ .text          0x0000000000000a26       0x5e /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_ge_sf.o)
+                0x0000000000000a26                __gesf2
+ .text          0x0000000000000a84       0x5e /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_lt_sf.o)
+                0x0000000000000a84                __ltsf2
+ .text          0x0000000000000ae2       0x5e /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_le_sf.o)
+                0x0000000000000ae2                __lesf2
+ .text          0x0000000000000b40       0x5a /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_unord_sf.o)
+                0x0000000000000b40                __unordsf2
+ .text          0x0000000000000b9a       0xb8 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_si_to_sf.o)
+                0x0000000000000b9a                __floatsisf
+ .text          0x0000000000000c52       0x9e /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_sf_to_si.o)
+                0x0000000000000c52                __fixsfsi
+ .text          0x0000000000000cf0        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_thenan_sf.o)
+ .text          0x0000000000000cf0       0xec /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_usi_to_sf.o)
+                0x0000000000000cf0                __floatunsisf
+ .text          0x0000000000000ddc        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_prologue.o)
+ .text          0x0000000000000ddc        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_epilogue.o)
+ .text          0x0000000000000ddc        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_tablejump.o)
+ .text          0x0000000000000ddc        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_clzsi2.o)
+ .text          0x0000000000000ddc        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_clzhi2.o)
+ .text          0x0000000000000ddc      0x194 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_pack_sf.o)
+                0x0000000000000ddc                __pack_f
+ .text          0x0000000000000f70       0xde /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_unpack_sf.o)
+                0x0000000000000f70                __unpack_f
+ .text          0x000000000000104e       0xc2 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_fpcmp_parts_sf.o)
+                0x000000000000104e                __fpcmp_parts_f
+ .text          0x0000000000001110        0x0 /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(atol.o)
+ .text          0x0000000000001110        0x0 /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(isspace.o)
+ .text          0x0000000000001110        0x0 /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(tolower.o)
+ .text          0x0000000000001110        0x0 /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(toupper.o)
+ .text          0x0000000000001110        0x0 /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(memcpy.o)
+ .text          0x0000000000001110        0x0 /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(memmove.o)
+ .text          0x0000000000001110        0x0 /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(strchr.o)
+ .text          0x0000000000001110        0x0 /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(strcmp.o)
+ .text          0x0000000000001110        0x0 /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(strcpy.o)
+ .text          0x0000000000001110        0x0 /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(strncmp.o)
+ .text          0x0000000000001110        0x0 /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(strncpy.o)
+ .text          0x0000000000001110        0x0 /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(strrchr.o)
+ .text          0x0000000000001110        0x0 /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(strstr.o)
+ .text          0x0000000000001110        0x0 /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(itoa.o)
+ .text          0x0000000000001110        0x0 /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(ltoa.o)
+ .text          0x0000000000001110        0x0 /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(mulsi10.o)
+ .text          0x0000000000001110        0x0 /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(ultoa.o)
+ .text          0x0000000000001110        0x0 /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(utoa.o)
+ .text          0x0000000000001110        0x0 /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(cty_isfalse.o)
+ .text          0x0000000000001110        0x0 /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(strrev.o)
+ .text          0x0000000000001110        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_udivmodhi4.o)
+                0x0000000000001110                . = ALIGN (0x2)
+ *(.text.*)
+ .text._ZN7Serial_9availableEv
+                0x0000000000001110       0x1c /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(CDC.o)
+                0x0000000000001110                _ZN7Serial_9availableEv
+ .text._ZN7Serial_4peekEv
+                0x000000000000112c       0x30 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(CDC.o)
+                0x000000000000112c                _ZN7Serial_4peekEv
+ .text._ZN7Serial_4readEv
+                0x000000000000115c       0x4a /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(CDC.o)
+                0x000000000000115c                _ZN7Serial_4readEv
+ .text._ZN7Serial_5writeEh
+                0x00000000000011a6       0x50 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(CDC.o)
+                0x00000000000011a6                _ZN7Serial_5writeEh
+ .text._ZN7Serial_5flushEv
+                0x00000000000011f6        0x6 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(CDC.o)
+                0x00000000000011f6                _ZN7Serial_5flushEv
+ .text._ZN7Serial_6acceptEv
+                0x00000000000011fc       0x4c /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(CDC.o)
+                0x00000000000011fc                _ZN7Serial_6acceptEv
+ .text._Z16CDC_GetInterfacePh
+                0x0000000000001248       0x16 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(CDC.o)
+                0x0000000000001248                _Z16CDC_GetInterfacePh
+ .text._Z9CDC_SetupR5Setup
+                0x000000000000125e       0xae /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(CDC.o)
+                0x000000000000125e                _Z9CDC_SetupR5Setup
+ .text._ZN7Serial_5beginEj
+                0x000000000000130c        0x2 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(CDC.o)
+                0x000000000000130c                _ZN7Serial_5beginEj
+ .text._ZN7Serial_3endEv
+                0x000000000000130e        0x2 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(CDC.o)
+                0x000000000000130e                _ZN7Serial_3endEv
+ .text._ZN7Serial_cvbEv
+                0x0000000000001310       0x1e /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(CDC.o)
+                0x0000000000001310                _ZN7Serial_cvbEv
+ .text.startup._GLOBAL__sub_I_cdc_rx_buffer
+                0x000000000000132e       0x2e /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(CDC.o)
+ .text._ZN14HardwareSerial9availableEv
+                0x000000000000135c       0x26 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(HardwareSerial.o)
+                0x000000000000135c                _ZN14HardwareSerial9availableEv
+ .text._ZN14HardwareSerial4peekEv
+                0x0000000000001382       0x38 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(HardwareSerial.o)
+                0x0000000000001382                _ZN14HardwareSerial4peekEv
+ .text._ZN14HardwareSerial4readEv
+                0x00000000000013ba       0x48 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(HardwareSerial.o)
+                0x00000000000013ba                _ZN14HardwareSerial4readEv
+ .text._ZN14HardwareSerial5flushEv
+                0x0000000000001402       0x16 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(HardwareSerial.o)
+                0x0000000000001402                _ZN14HardwareSerial5flushEv
+ .text._ZN14HardwareSerial5writeEh
+                0x0000000000001418       0x7a /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(HardwareSerial.o)
+                0x0000000000001418                _ZN14HardwareSerial5writeEh
+ .text._Z12serialEvent1v
+                0x0000000000001492        0x2 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(HardwareSerial.o)
+                0x0000000000001492                _Z12serialEvent1v
+ .text.__vector_25
+                0x0000000000001494       0x74 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(HardwareSerial.o)
+                0x0000000000001494                __vector_25
+ .text._Z14serialEventRunv
+                0x0000000000001508       0x12 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(HardwareSerial.o)
+                0x0000000000001508                _Z14serialEventRunv
+ .text.__vector_26
+                0x000000000000151a       0x76 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(HardwareSerial.o)
+                0x000000000000151a                __vector_26
+ .text._ZN14HardwareSerialC2EP11ring_bufferS1_PVhS3_S3_S3_S3_S3_hhhhh
+                0x0000000000001590       0x88 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(HardwareSerial.o)
+                0x0000000000001590                _ZN14HardwareSerialC1EP11ring_bufferS1_PVhS3_S3_S3_S3_S3_hhhhh
+                0x0000000000001590                _ZN14HardwareSerialC2EP11ring_bufferS1_PVhS3_S3_S3_S3_S3_hhhhh
+ .text._ZN14HardwareSerial5beginEm
+                0x0000000000001618      0x102 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(HardwareSerial.o)
+                0x0000000000001618                _ZN14HardwareSerial5beginEm
+ .text._ZN14HardwareSerial5beginEmh
+                0x000000000000171a      0x10c /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(HardwareSerial.o)
+                0x000000000000171a                _ZN14HardwareSerial5beginEmh
+ .text._ZN14HardwareSerial3endEv
+                0x0000000000001826       0xae /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(HardwareSerial.o)
+                0x0000000000001826                _ZN14HardwareSerial3endEv
+ .text._ZN14HardwareSerialcvbEv
+                0x00000000000018d4        0x4 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(HardwareSerial.o)
+                0x00000000000018d4                _ZN14HardwareSerialcvbEv
+ .text.startup._GLOBAL__sub_I_rx_buffer
+                0x00000000000018d8       0xac /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(HardwareSerial.o)
+ .text._ZN5Print5writeEPKhj
+                0x0000000000001984       0x50 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(Print.o)
+                0x0000000000001984                _ZN5Print5writeEPKhj
+ .text._ZN5Print5writeEPKc
+                0x00000000000019d4       0x2c /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(Print.o)
+                0x00000000000019d4                _ZN5Print5writeEPKc
+ .text._ZN5Print5printEPK19__FlashStringHelper
+                0x0000000000001a00       0x42 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(Print.o)
+                0x0000000000001a00                _ZN5Print5printEPK19__FlashStringHelper
+ .text._ZN5Print5printERK6String
+                0x0000000000001a42       0x6c /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(Print.o)
+                0x0000000000001a42                _ZN5Print5printERK6String
+ .text._ZN5Print5printEPKc
+                0x0000000000001aae        0x4 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(Print.o)
+                0x0000000000001aae                _ZN5Print5printEPKc
+ .text._ZN5Print5printEc
+                0x0000000000001ab2        0xe /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(Print.o)
+                0x0000000000001ab2                _ZN5Print5printEc
+ .text._ZN5Print5printERK9Printable
+                0x0000000000001ac0       0x14 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(Print.o)
+                0x0000000000001ac0                _ZN5Print5printERK9Printable
+ .text._ZN5Print7printlnEv
+                0x0000000000001ad4       0x2c /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(Print.o)
+                0x0000000000001ad4                _ZN5Print7printlnEv
+ .text._ZN5Print7printlnEPK19__FlashStringHelper
+                0x0000000000001b00       0x28 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(Print.o)
+                0x0000000000001b00                _ZN5Print7printlnEPK19__FlashStringHelper
+ .text._ZN5Print7printlnERK6String
+                0x0000000000001b28       0x28 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(Print.o)
+                0x0000000000001b28                _ZN5Print7printlnERK6String
+ .text._ZN5Print7printlnEPKc
+                0x0000000000001b50       0x28 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(Print.o)
+                0x0000000000001b50                _ZN5Print7printlnEPKc
+ .text._ZN5Print7printlnEc
+                0x0000000000001b78       0x28 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(Print.o)
+                0x0000000000001b78                _ZN5Print7printlnEc
+ .text._ZN5Print7printlnERK9Printable
+                0x0000000000001ba0       0x28 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(Print.o)
+                0x0000000000001ba0                _ZN5Print7printlnERK9Printable
+ .text._ZN5Print11printNumberEmh
+                0x0000000000001bc8       0xb8 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(Print.o)
+                0x0000000000001bc8                _ZN5Print11printNumberEmh
+ .text._ZN5Print5printEmi
+                0x0000000000001c80       0x1a /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(Print.o)
+                0x0000000000001c80                _ZN5Print5printEmi
+ .text._ZN5Print7printlnEmi
+                0x0000000000001c9a       0x28 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(Print.o)
+                0x0000000000001c9a                _ZN5Print7printlnEmi
+ .text._ZN5Print5printEji
+                0x0000000000001cc2        0xc /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(Print.o)
+                0x0000000000001cc2                _ZN5Print5printEji
+ .text._ZN5Print7printlnEji
+                0x0000000000001cce       0x30 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(Print.o)
+                0x0000000000001cce                _ZN5Print7printlnEji
+ .text._ZN5Print5printEhi
+                0x0000000000001cfe        0xe /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(Print.o)
+                0x0000000000001cfe                _ZN5Print5printEhi
+ .text._ZN5Print7printlnEhi
+                0x0000000000001d0c       0x32 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(Print.o)
+                0x0000000000001d0c                _ZN5Print7printlnEhi
+ .text._ZN5Print5printEli
+                0x0000000000001d3e       0x96 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(Print.o)
+                0x0000000000001d3e                _ZN5Print5printEli
+ .text._ZN5Print7printlnEli
+                0x0000000000001dd4       0x28 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(Print.o)
+                0x0000000000001dd4                _ZN5Print7printlnEli
+ .text._ZN5Print5printEii
+                0x0000000000001dfc       0x10 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(Print.o)
+                0x0000000000001dfc                _ZN5Print5printEii
+ .text._ZN5Print7printlnEii
+                0x0000000000001e0c       0x34 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(Print.o)
+                0x0000000000001e0c                _ZN5Print7printlnEii
+ .text._ZN5Print10printFloatEdh
+                0x0000000000001e40      0x1ee /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(Print.o)
+                0x0000000000001e40                _ZN5Print10printFloatEdh
+ .text._ZN5Print5printEdi
+                0x000000000000202e        0x4 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(Print.o)
+                0x000000000000202e                _ZN5Print5printEdi
+ .text._ZN5Print7printlnEdi
+                0x0000000000002032       0x28 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(Print.o)
+                0x0000000000002032                _ZN5Print7printlnEdi
+ .text._Z4RecvPVhh
+                0x000000000000205a       0x1a /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(USBCore.o)
+                0x000000000000205a                _Z4RecvPVhh
+ .text._Z19USBGetConfigurationv
+                0x0000000000002074        0x6 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(USBCore.o)
+                0x0000000000002074                _Z19USBGetConfigurationv
+ .text._ZN6LockEPC2Eh
+                0x000000000000207a       0x10 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(USBCore.o)
+                0x000000000000207a                _ZN6LockEPC1Eh
+                0x000000000000207a                _ZN6LockEPC2Eh
+ .text._Z13USB_Availableh
+                0x000000000000208a       0x24 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(USBCore.o)
+                0x000000000000208a                _Z13USB_Availableh
+ .text._Z8USB_RecvhPvi
+                0x00000000000020ae       0x8e /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(USBCore.o)
+                0x00000000000020ae                _Z8USB_RecvhPvi
+ .text._Z8USB_Recvh
+                0x000000000000213c       0x30 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(USBCore.o)
+                0x000000000000213c                _Z8USB_Recvh
+ .text._Z13USB_SendSpaceh
+                0x000000000000216c       0x34 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(USBCore.o)
+                0x000000000000216c                _Z13USB_SendSpaceh
+ .text._Z8USB_SendhPKvi
+                0x00000000000021a0      0x120 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(USBCore.o)
+                0x00000000000021a0                _Z8USB_SendhPKvi
+ .text._Z11InitControli
+                0x00000000000022c0       0x16 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(USBCore.o)
+                0x00000000000022c0                _Z11InitControli
+ .text._Z15USB_SendControlhPKvi
+                0x00000000000022d6       0xa6 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(USBCore.o)
+                0x00000000000022d6                _Z15USB_SendControlhPKvi
+ .text._Z15USB_RecvControlPvi
+                0x000000000000237c       0x34 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(USBCore.o)
+                0x000000000000237c                _Z15USB_RecvControlPvi
+ .text._Z14SendInterfacesv
+                0x00000000000023b0       0x28 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(USBCore.o)
+                0x00000000000023b0                _Z14SendInterfacesv
+ .text.__vector_11
+                0x00000000000023d8      0x250 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(USBCore.o)
+                0x00000000000023d8                __vector_11
+ .text._Z9USB_Flushh
+                0x0000000000002628       0x14 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(USBCore.o)
+                0x0000000000002628                _Z9USB_Flushh
+ .text.__vector_10
+                0x000000000000263c       0xbe /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(USBCore.o)
+                0x000000000000263c                __vector_10
+ .text._Z12USBConnectedv
+                0x00000000000026fa       0x22 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(USBCore.o)
+                0x00000000000026fa                _Z12USBConnectedv
+ .text._ZN10USBDevice_C2Ev
+                0x000000000000271c        0x2 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(USBCore.o)
+                0x000000000000271c                _ZN10USBDevice_C2Ev
+                0x000000000000271c                _ZN10USBDevice_C1Ev
+ .text._ZN10USBDevice_6attachEv
+                0x000000000000271e       0x3c /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(USBCore.o)
+                0x000000000000271e                _ZN10USBDevice_6attachEv
+ .text._ZN10USBDevice_6detachEv
+                0x000000000000275a        0x2 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(USBCore.o)
+                0x000000000000275a                _ZN10USBDevice_6detachEv
+ .text._ZN10USBDevice_10configuredEv
+                0x000000000000275c        0xe /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(USBCore.o)
+                0x000000000000275c                _ZN10USBDevice_10configuredEv
+ .text._ZN10USBDevice_4pollEv
+                0x000000000000276a        0x2 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(USBCore.o)
+                0x000000000000276a                _ZN10USBDevice_4pollEv
+ .text._ZN6StringD2Ev
+                0x000000000000276c        0xa /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(WString.o)
+                0x000000000000276c                _ZN6StringD1Ev
+                0x000000000000276c                _ZN6StringD2Ev
+ .text._ZN6String10invalidateEv
+                0x0000000000002776       0x24 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(WString.o)
+                0x0000000000002776                _ZN6String10invalidateEv
+ .text._ZN6String12changeBufferEj
+                0x000000000000279a       0x34 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(WString.o)
+                0x000000000000279a                _ZN6String12changeBufferEj
+ .text._ZN6String7reserveEj
+                0x00000000000027ce       0x3e /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(WString.o)
+                0x00000000000027ce                _ZN6String7reserveEj
+ .text._ZN6String4copyEPKcj
+                0x000000000000280c       0x42 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(WString.o)
+                0x000000000000280c                _ZN6String4copyEPKcj
+ .text._ZN6StringC2EPKc
+                0x000000000000284e       0x3a /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(WString.o)
+                0x000000000000284e                _ZN6StringC1EPKc
+                0x000000000000284e                _ZN6StringC2EPKc
+ .text._ZN6StringaSERKS_
+                0x0000000000002888       0x2e /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(WString.o)
+                0x0000000000002888                _ZN6StringaSERKS_
+ .text._ZN6StringC2ERKS_
+                0x00000000000028b6       0x14 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(WString.o)
+                0x00000000000028b6                _ZN6StringC1ERKS_
+                0x00000000000028b6                _ZN6StringC2ERKS_
+ .text._ZN6StringaSEPKc
+                0x00000000000028ca       0x34 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(WString.o)
+                0x00000000000028ca                _ZN6StringaSEPKc
+ .text._ZN6StringC2Emh
+                0x00000000000028fe       0x5c /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(WString.o)
+                0x00000000000028fe                _ZN6StringC2Emh
+                0x00000000000028fe                _ZN6StringC1Emh
+ .text._ZN6StringC2Elh
+                0x000000000000295a       0x5c /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(WString.o)
+                0x000000000000295a                _ZN6StringC1Elh
+                0x000000000000295a                _ZN6StringC2Elh
+ .text._ZN6StringC2Ejh
+                0x00000000000029b6       0x5a /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(WString.o)
+                0x00000000000029b6                _ZN6StringC2Ejh
+                0x00000000000029b6                _ZN6StringC1Ejh
+ .text._ZN6StringC2Eih
+                0x0000000000002a10       0x5a /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(WString.o)
+                0x0000000000002a10                _ZN6StringC1Eih
+                0x0000000000002a10                _ZN6StringC2Eih
+ .text._ZN6StringC2Ehh
+                0x0000000000002a6a       0x5c /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(WString.o)
+                0x0000000000002a6a                _ZN6StringC1Ehh
+                0x0000000000002a6a                _ZN6StringC2Ehh
+ .text._ZN6StringC2Ec
+                0x0000000000002ac6       0x32 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(WString.o)
+                0x0000000000002ac6                _ZN6StringC2Ec
+                0x0000000000002ac6                _ZN6StringC1Ec
+ .text._ZN6String6concatEPKcj
+                0x0000000000002af8       0x58 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(WString.o)
+                0x0000000000002af8                _ZN6String6concatEPKcj
+ .text._ZN6String6concatERKS_
+                0x0000000000002b50        0xe /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(WString.o)
+                0x0000000000002b50                _ZN6String6concatERKS_
+ .text._ZN6String6concatEPKc
+                0x0000000000002b5e       0x20 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(WString.o)
+                0x0000000000002b5e                _ZN6String6concatEPKc
+ .text._ZN6String6concatEc
+                0x0000000000002b7e       0x26 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(WString.o)
+                0x0000000000002b7e                _ZN6String6concatEc
+ .text._ZN6String6concatEh
+                0x0000000000002ba4       0x5a /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(WString.o)
+                0x0000000000002ba4                _ZN6String6concatEh
+ .text._ZN6String6concatEi
+                0x0000000000002bfe       0x64 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(WString.o)
+                0x0000000000002bfe                _ZN6String6concatEi
+ .text._ZN6String6concatEj
+                0x0000000000002c62       0x5e /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(WString.o)
+                0x0000000000002c62                _ZN6String6concatEj
+ .text._ZN6String6concatEl
+                0x0000000000002cc0       0x66 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(WString.o)
+                0x0000000000002cc0                _ZN6String6concatEl
+ .text._ZN6String6concatEm
+                0x0000000000002d26       0x66 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(WString.o)
+                0x0000000000002d26                _ZN6String6concatEm
+ .text._ZplRK15StringSumHelperRK6String
+                0x0000000000002d8c       0x2c /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(WString.o)
+                0x0000000000002d8c                _ZplRK15StringSumHelperRK6String
+ .text._ZplRK15StringSumHelperPKc
+                0x0000000000002db8       0x3a /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(WString.o)
+                0x0000000000002db8                _ZplRK15StringSumHelperPKc
+ .text._ZplRK15StringSumHelperc
+                0x0000000000002df2       0x22 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(WString.o)
+                0x0000000000002df2                _ZplRK15StringSumHelperc
+ .text._ZplRK15StringSumHelperh
+                0x0000000000002e14       0x22 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(WString.o)
+                0x0000000000002e14                _ZplRK15StringSumHelperh
+ .text._ZplRK15StringSumHelperi
+                0x0000000000002e36       0x22 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(WString.o)
+                0x0000000000002e36                _ZplRK15StringSumHelperi
+ .text._ZplRK15StringSumHelperj
+                0x0000000000002e58       0x22 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(WString.o)
+                0x0000000000002e58                _ZplRK15StringSumHelperj
+ .text._ZplRK15StringSumHelperl
+                0x0000000000002e7a       0x22 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(WString.o)
+                0x0000000000002e7a                _ZplRK15StringSumHelperl
+ .text._ZplRK15StringSumHelperm
+                0x0000000000002e9c       0x22 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(WString.o)
+                0x0000000000002e9c                _ZplRK15StringSumHelperm
+ .text._ZNK6String9compareToERKS_
+                0x0000000000002ebe       0x62 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(WString.o)
+                0x0000000000002ebe                _ZNK6String9compareToERKS_
+ .text._ZNK6String6equalsERKS_
+                0x0000000000002f20       0x22 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(WString.o)
+                0x0000000000002f20                _ZNK6String6equalsERKS_
+ .text._ZNK6String6equalsEPKc
+                0x0000000000002f42       0x44 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(WString.o)
+                0x0000000000002f42                _ZNK6String6equalsEPKc
+ .text._ZNK6StringltERKS_
+                0x0000000000002f86        0xe /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(WString.o)
+                0x0000000000002f86                _ZNK6StringltERKS_
+ .text._ZNK6StringgtERKS_
+                0x0000000000002f94       0x12 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(WString.o)
+                0x0000000000002f94                _ZNK6StringgtERKS_
+ .text._ZNK6StringleERKS_
+                0x0000000000002fa6       0x12 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(WString.o)
+                0x0000000000002fa6                _ZNK6StringleERKS_
+ .text._ZNK6StringgeERKS_
+                0x0000000000002fb8       0x10 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(WString.o)
+                0x0000000000002fb8                _ZNK6StringgeERKS_
+ .text._ZNK6String16equalsIgnoreCaseERKS_
+                0x0000000000002fc8       0x70 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(WString.o)
+                0x0000000000002fc8                _ZNK6String16equalsIgnoreCaseERKS_
+ .text._ZNK6String10startsWithERKS_j
+                0x0000000000003038       0x48 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(WString.o)
+                0x0000000000003038                _ZNK6String10startsWithERKS_j
+ .text._ZNK6String10startsWithERKS_
+                0x0000000000003080       0x1e /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(WString.o)
+                0x0000000000003080                _ZNK6String10startsWithERKS_
+ .text._ZNK6String8endsWithERKS_
+                0x000000000000309e       0x42 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(WString.o)
+                0x000000000000309e                _ZNK6String8endsWithERKS_
+ .text._ZN6String9setCharAtEjc
+                0x00000000000030e0       0x1c /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(WString.o)
+                0x00000000000030e0                _ZN6String9setCharAtEjc
+ .text._ZN6StringixEj
+                0x00000000000030fc       0x26 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(WString.o)
+                0x00000000000030fc                _ZN6StringixEj
+ .text._ZNK6StringixEj
+                0x0000000000003122       0x22 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(WString.o)
+                0x0000000000003122                _ZNK6StringixEj
+ .text._ZNK6String6charAtEj
+                0x0000000000003144        0x4 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(WString.o)
+                0x0000000000003144                _ZNK6String6charAtEj
+ .text._ZNK6String8getBytesEPhjj
+                0x0000000000003148       0x54 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(WString.o)
+                0x0000000000003148                _ZNK6String8getBytesEPhjj
+ .text._ZNK6String7indexOfEcj
+                0x000000000000319c       0x3c /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(WString.o)
+                0x000000000000319c                _ZNK6String7indexOfEcj
+ .text._ZNK6String7indexOfEc
+                0x00000000000031d8        0x8 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(WString.o)
+                0x00000000000031d8                _ZNK6String7indexOfEc
+ .text._ZNK6String7indexOfERKS_j
+                0x00000000000031e0       0x3c /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(WString.o)
+                0x00000000000031e0                _ZNK6String7indexOfERKS_j
+ .text._ZNK6String7indexOfERKS_
+                0x000000000000321c        0x8 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(WString.o)
+                0x000000000000321c                _ZNK6String7indexOfERKS_
+ .text._ZNK6String11lastIndexOfEcj
+                0x0000000000003224       0x6c /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(WString.o)
+                0x0000000000003224                _ZNK6String11lastIndexOfEcj
+ .text._ZNK6String11lastIndexOfEc
+                0x0000000000003290        0xe /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(WString.o)
+                0x0000000000003290                _ZNK6String11lastIndexOfEc
+ .text._ZNK6String11lastIndexOfERKS_j
+                0x000000000000329e       0x9a /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(WString.o)
+                0x000000000000329e                _ZNK6String11lastIndexOfERKS_j
+ .text._ZNK6String11lastIndexOfERKS_
+                0x0000000000003338       0x14 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(WString.o)
+                0x0000000000003338                _ZNK6String11lastIndexOfERKS_
+ .text._ZNK6String9substringEjj
+                0x000000000000334c       0x8a /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(WString.o)
+                0x000000000000334c                _ZNK6String9substringEjj
+ .text._ZNK6String9substringEj
+                0x00000000000033d6       0x18 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(WString.o)
+                0x00000000000033d6                _ZNK6String9substringEj
+ .text._ZN6String7replaceEcc
+                0x00000000000033ee       0x1c /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(WString.o)
+                0x00000000000033ee                _ZN6String7replaceEcc
+ .text._ZN6String7replaceERKS_S1_
+                0x000000000000340a      0x224 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(WString.o)
+                0x000000000000340a                _ZN6String7replaceERKS_S1_
+ .text._ZN6String11toLowerCaseEv
+                0x000000000000362e       0x28 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(WString.o)
+                0x000000000000362e                _ZN6String11toLowerCaseEv
+ .text._ZN6String11toUpperCaseEv
+                0x0000000000003656       0x28 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(WString.o)
+                0x0000000000003656                _ZN6String11toUpperCaseEv
+ .text._ZN6String4trimEv
+                0x000000000000367e       0xca /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(WString.o)
+                0x000000000000367e                _ZN6String4trimEv
+ .text._ZNK6String5toIntEv
+                0x0000000000003748       0x18 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(WString.o)
+                0x0000000000003748                _ZNK6String5toIntEv
+ .text.startup.main
+                0x0000000000003760       0x22 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(main.o)
+                0x0000000000003760                main
+ .text.malloc   0x0000000000003782      0x10c /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(malloc.o)
+                0x0000000000003782                malloc
+ .text.free     0x000000000000388e      0x13e /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(malloc.o)
+                0x000000000000388e                free
+ .text.realloc  0x00000000000039cc      0x1bc /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(malloc.o)
+                0x00000000000039cc                realloc
+ .text._Znwj    0x0000000000003b88        0x4 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(new.o)
+                0x0000000000003b88                _Znwj
+ .text._ZdlPv   0x0000000000003b8c        0x4 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(new.o)
+                0x0000000000003b8c                _ZdlPv
+ .text.__cxa_guard_acquire
+                0x0000000000003b90       0x14 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(new.o)
+                0x0000000000003b90                __cxa_guard_acquire
+ .text.__cxa_guard_release
+                0x0000000000003ba4        0x8 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(new.o)
+                0x0000000000003ba4                __cxa_guard_release
+ .text.__cxa_guard_abort
+                0x0000000000003bac        0x2 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(new.o)
+                0x0000000000003bac                __cxa_guard_abort
+ .text.__cxa_pure_virtual
+                0x0000000000003bae        0x2 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(new.o)
+                0x0000000000003bae                __cxa_pure_virtual
+ .text.__vector_23
+                0x0000000000003bb0       0x94 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(wiring.o)
+                0x0000000000003bb0                __vector_23
+ .text.millis   0x0000000000003c44       0x24 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(wiring.o)
+                0x0000000000003c44                millis
+ .text.micros   0x0000000000003c68       0x54 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(wiring.o)
+                0x0000000000003c68                micros
+ .text.delay    0x0000000000003cbc       0x4c /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(wiring.o)
+                0x0000000000003cbc                delay
+ .text.delayMicroseconds
+                0x0000000000003d08       0x14 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(wiring.o)
+                0x0000000000003d08                delayMicroseconds
+ .text.init     0x0000000000003d1c       0xac /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(wiring.o)
+                0x0000000000003d1c                init
+ .text._ZN9Keyboard_5writeEh
+                0x0000000000003dc8       0x3e /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(HID.o)
+                0x0000000000003dc8                _ZN9Keyboard_5writeEh
+ .text._Z16HID_GetInterfacePh
+                0x0000000000003e06       0x16 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(HID.o)
+                0x0000000000003e06                _Z16HID_GetInterfacePh
+ .text._Z17HID_GetDescriptori
+                0x0000000000003e1c        0xe /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(HID.o)
+                0x0000000000003e1c                _Z17HID_GetDescriptori
+ .text._Z14HID_SendReporthPKvi
+                0x0000000000003e2a       0x42 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(HID.o)
+                0x0000000000003e2a                _Z14HID_SendReporthPKvi
+ .text._Z9HID_SetupR5Setup
+                0x0000000000003e6c       0x3a /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(HID.o)
+                0x0000000000003e6c                _Z9HID_SetupR5Setup
+ .text._ZN6Mouse_C2Ev
+                0x0000000000003ea6        0x6 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(HID.o)
+                0x0000000000003ea6                _ZN6Mouse_C1Ev
+                0x0000000000003ea6                _ZN6Mouse_C2Ev
+ .text._ZN6Mouse_5beginEv
+                0x0000000000003eac        0x2 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(HID.o)
+                0x0000000000003eac                _ZN6Mouse_5beginEv
+ .text._ZN6Mouse_3endEv
+                0x0000000000003eae        0x2 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(HID.o)
+                0x0000000000003eae                _ZN6Mouse_3endEv
+ .text._ZN6Mouse_4moveEaaa
+                0x0000000000003eb0       0x36 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(HID.o)
+                0x0000000000003eb0                _ZN6Mouse_4moveEaaa
+ .text._ZN6Mouse_5clickEh
+                0x0000000000003ee6       0x24 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(HID.o)
+                0x0000000000003ee6                _ZN6Mouse_5clickEh
+ .text._ZN6Mouse_7buttonsEh
+                0x0000000000003f0a       0x16 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(HID.o)
+                0x0000000000003f0a                _ZN6Mouse_7buttonsEh
+ .text._ZN6Mouse_5pressEh
+                0x0000000000003f20        0xa /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(HID.o)
+                0x0000000000003f20                _ZN6Mouse_5pressEh
+ .text._ZN6Mouse_7releaseEh
+                0x0000000000003f2a        0xc /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(HID.o)
+                0x0000000000003f2a                _ZN6Mouse_7releaseEh
+ .text._ZN6Mouse_9isPressedEh
+                0x0000000000003f36        0xe /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(HID.o)
+                0x0000000000003f36                _ZN6Mouse_9isPressedEh
+ .text._ZN9Keyboard_C2Ev
+                0x0000000000003f44       0x10 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(HID.o)
+                0x0000000000003f44                _ZN9Keyboard_C2Ev
+                0x0000000000003f44                _ZN9Keyboard_C1Ev
+ .text._ZN9Keyboard_5beginEv
+                0x0000000000003f54        0x2 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(HID.o)
+                0x0000000000003f54                _ZN9Keyboard_5beginEv
+ .text._ZN9Keyboard_3endEv
+                0x0000000000003f56        0x2 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(HID.o)
+                0x0000000000003f56                _ZN9Keyboard_3endEv
+ .text._ZN9Keyboard_10sendReportEP9KeyReport
+                0x0000000000003f58        0xa /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(HID.o)
+                0x0000000000003f58                _ZN9Keyboard_10sendReportEP9KeyReport
+ .text._ZN9Keyboard_10releaseAllEv
+                0x0000000000003f62       0x1a /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(HID.o)
+                0x0000000000003f62                _ZN9Keyboard_10releaseAllEv
+ .text._ZN9Keyboard_7releaseEh
+                0x0000000000003f7c       0x90 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(HID.o)
+                0x0000000000003f7c                _ZN9Keyboard_7releaseEh
+ .text._ZN9Keyboard_5pressEh
+                0x000000000000400c       0xdc /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(HID.o)
+                0x000000000000400c                _ZN9Keyboard_5pressEh
+ .text.startup._GLOBAL__sub_I_Mouse
+                0x00000000000040e8       0x1a /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(HID.o)
+ .text.libgcc.mul
+                0x0000000000004102        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_udivmodsi4.o)
+ .text.libgcc.div
+                0x0000000000004102       0x44 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_udivmodsi4.o)
+                0x0000000000004102                __udivmodsi4
+ .text.libgcc   0x0000000000004146        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_udivmodsi4.o)
+ .text.libgcc.prologue
+                0x0000000000004146        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_udivmodsi4.o)
+ .text.libgcc.builtins
+                0x0000000000004146        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_udivmodsi4.o)
+ .text.libgcc.fmul
+                0x0000000000004146        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_udivmodsi4.o)
+ .text.libgcc.mul
+                0x0000000000004146        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_exit.o)
+ .text.libgcc.div
+                0x0000000000004146        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_exit.o)
+ .text.libgcc   0x0000000000004146        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_exit.o)
+ .text.libgcc.prologue
+                0x0000000000004146        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_exit.o)
+ .text.libgcc.builtins
+                0x0000000000004146        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_exit.o)
+ .text.libgcc.fmul
+                0x0000000000004146        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_exit.o)
+ .text.libgcc.mul
+                0x0000000000004146        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_copy_data.o)
+ .text.libgcc.div
+                0x0000000000004146        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_copy_data.o)
+ .text.libgcc   0x0000000000004146        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_copy_data.o)
+ .text.libgcc.prologue
+                0x0000000000004146        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_copy_data.o)
+ .text.libgcc.builtins
+                0x0000000000004146        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_copy_data.o)
+ .text.libgcc.fmul
+                0x0000000000004146        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_copy_data.o)
+ .text.libgcc.mul
+                0x0000000000004146        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_clear_bss.o)
+ .text.libgcc.div
+                0x0000000000004146        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_clear_bss.o)
+ .text.libgcc   0x0000000000004146        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_clear_bss.o)
+ .text.libgcc.prologue
+                0x0000000000004146        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_clear_bss.o)
+ .text.libgcc.builtins
+                0x0000000000004146        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_clear_bss.o)
+ .text.libgcc.fmul
+                0x0000000000004146        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_clear_bss.o)
+ .text.libgcc.mul
+                0x0000000000004146        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_ctors.o)
+ .text.libgcc.div
+                0x0000000000004146        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_ctors.o)
+ .text.libgcc   0x0000000000004146        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_ctors.o)
+ .text.libgcc.prologue
+                0x0000000000004146        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_ctors.o)
+ .text.libgcc.builtins
+                0x0000000000004146        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_ctors.o)
+ .text.libgcc.fmul
+                0x0000000000004146        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_ctors.o)
+ .text.libgcc.mul
+                0x0000000000004146        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_prologue.o)
+ .text.libgcc.div
+                0x0000000000004146        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_prologue.o)
+ .text.libgcc   0x0000000000004146        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_prologue.o)
+ .text.libgcc.prologue
+                0x0000000000004146       0x38 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_prologue.o)
+                0x0000000000004146                __prologue_saves__
+ .text.libgcc.builtins
+                0x000000000000417e        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_prologue.o)
+ .text.libgcc.fmul
+                0x000000000000417e        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_prologue.o)
+ .text.libgcc.mul
+                0x000000000000417e        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_epilogue.o)
+ .text.libgcc.div
+                0x000000000000417e        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_epilogue.o)
+ .text.libgcc   0x000000000000417e        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_epilogue.o)
+ .text.libgcc.prologue
+                0x000000000000417e       0x36 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_epilogue.o)
+                0x000000000000417e                __epilogue_restores__
+ .text.libgcc.builtins
+                0x00000000000041b4        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_epilogue.o)
+ .text.libgcc.fmul
+                0x00000000000041b4        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_epilogue.o)
+ .text.libgcc.mul
+                0x00000000000041b4        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_tablejump.o)
+ .text.libgcc.div
+                0x00000000000041b4        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_tablejump.o)
+ .text.libgcc   0x00000000000041b4        0xc /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_tablejump.o)
+                0x00000000000041b4                __tablejump2__
+                0x00000000000041b8                __tablejump__
+ .text.libgcc.prologue
+                0x00000000000041c0        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_tablejump.o)
+ .text.libgcc.builtins
+                0x00000000000041c0        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_tablejump.o)
+ .text.libgcc.fmul
+                0x00000000000041c0        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_tablejump.o)
+ .text.libgcc.mul
+                0x00000000000041c0        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_clzsi2.o)
+ .text.libgcc.div
+                0x00000000000041c0        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_clzsi2.o)
+ .text.libgcc   0x00000000000041c0        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_clzsi2.o)
+ .text.libgcc.prologue
+                0x00000000000041c0        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_clzsi2.o)
+ .text.libgcc.builtins
+                0x00000000000041c0       0x12 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_clzsi2.o)
+                0x00000000000041c0                __clzsi2
+ .text.libgcc.fmul
+                0x00000000000041d2        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_clzsi2.o)
+ .text.libgcc.mul
+                0x00000000000041d2        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_clzhi2.o)
+ .text.libgcc.div
+                0x00000000000041d2        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_clzhi2.o)
+ .text.libgcc   0x00000000000041d2        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_clzhi2.o)
+ .text.libgcc.prologue
+                0x00000000000041d2        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_clzhi2.o)
+ .text.libgcc.builtins
+                0x00000000000041d2       0x24 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_clzhi2.o)
+                0x00000000000041d2                __clzhi2
+ .text.libgcc.fmul
+                0x00000000000041f6        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_clzhi2.o)
+ .text.avr-libc
+                0x00000000000041f6       0x4e /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(atol.o)
+                0x00000000000041f6                atol
+ .text.avr-libc
+                0x0000000000004244       0x10 /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(isspace.o)
+                0x0000000000004244                isspace
+ .text.avr-libc
+                0x0000000000004254       0x10 /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(tolower.o)
+                0x0000000000004254                tolower
+ .text.avr-libc
+                0x0000000000004264       0x10 /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(toupper.o)
+                0x0000000000004264                toupper
+ .text.avr-libc
+                0x0000000000004274       0x12 /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(memcpy.o)
+                0x0000000000004274                memcpy
+ .text.avr-libc
+                0x0000000000004286       0x24 /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(memmove.o)
+                0x0000000000004286                memmove
+ .text.avr-libc
+                0x00000000000042aa       0x16 /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(strchr.o)
+                0x00000000000042aa                strchr
+ .text.avr-libc
+                0x00000000000042c0       0x12 /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(strcmp.o)
+                0x00000000000042c0                strcmp
+ .text.avr-libc
+                0x00000000000042d2        0xe /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(strcpy.o)
+                0x00000000000042d2                strcpy
+ .text.avr-libc
+                0x00000000000042e0       0x1c /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(strncmp.o)
+                0x00000000000042e0                strncmp
+ .text.avr-libc
+                0x00000000000042fc       0x1e /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(strncpy.o)
+                0x00000000000042fc                strncpy
+ .text.avr-libc
+                0x000000000000431a       0x16 /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(strrchr.o)
+                0x000000000000431a                strrchr
+ .text.avr-libc
+                0x0000000000004330       0x34 /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(strstr.o)
+                0x0000000000004330                strstr
+ .text.avr-libc
+                0x0000000000004364       0x42 /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(itoa.o)
+                0x0000000000004364                itoa
+ .text.avr-libc
+                0x00000000000043a6       0x68 /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(ltoa.o)
+                0x00000000000043a6                ltoa
+ .text.avr-libc
+                0x000000000000440e       0x2a /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(mulsi10.o)
+                0x000000000000440e                __mulsi_const_10
+ .text.avr-libc
+                0x0000000000004438       0x4a /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(ultoa.o)
+                0x0000000000004438                ultoa
+ .text.avr-libc
+                0x0000000000004482       0x2c /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(utoa.o)
+                0x0000000000004482                utoa
+ .text.avr-libc
+                0x00000000000044ae        0x6 /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(cty_isfalse.o)
+                0x00000000000044ae                __ctype_isfalse
+                0x00000000000044b2                __ctype_istrue
+ .text.avr-libc
+                0x00000000000044b4       0x20 /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(strrev.o)
+                0x00000000000044b4                strrev
+ .text.libgcc.mul
+                0x00000000000044d4        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_udivmodhi4.o)
+ .text.libgcc.div
+                0x00000000000044d4       0x28 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_udivmodhi4.o)
+                0x00000000000044d4                __udivmodhi4
+ .text.libgcc   0x00000000000044fc        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_udivmodhi4.o)
+ .text.libgcc.prologue
+                0x00000000000044fc        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_udivmodhi4.o)
+ .text.libgcc.builtins
+                0x00000000000044fc        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_udivmodhi4.o)
+ .text.libgcc.fmul
+                0x00000000000044fc        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_udivmodhi4.o)
+                0x00000000000044fc                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x00000000000044fc        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_exit.o)
+                0x00000000000044fc                exit
+                0x00000000000044fc                _exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x00000000000044fc        0x4 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_exit.o)
+ *(.fini0)
+                0x0000000000004500                _etext = .
+
+.data           0x0000000000800100       0x7c load address 0x0000000000004500
+                0x0000000000800100                PROVIDE (__data_start, .)
+ *(.data)
+ .data          0x0000000000800100        0x0 /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/crtm32u4.o
+ .data          0x0000000000800100        0x0 ./main.o
+ .data          0x0000000000800100        0x0 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(CDC.o)
+ .data          0x0000000000800100        0x0 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(HardwareSerial.o)
+ .data          0x0000000000800100        0x0 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(Print.o)
+ .data          0x0000000000800100        0x0 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(USBCore.o)
+ .data          0x0000000000800100        0x0 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(WString.o)
+ .data          0x0000000000800100        0x0 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(main.o)
+ .data          0x0000000000800100        0x0 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(malloc.o)
+ .data          0x0000000000800100        0x0 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(new.o)
+ .data          0x0000000000800100        0x0 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(wiring.o)
+ .data          0x0000000000800100        0x0 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(HID.o)
+ .data          0x0000000000800100        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_udivmodsi4.o)
+ .data          0x0000000000800100        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_exit.o)
+ .data          0x0000000000800100        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_copy_data.o)
+ .data          0x0000000000800100        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_clear_bss.o)
+ .data          0x0000000000800100        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_ctors.o)
+ .data          0x0000000000800100        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_fixunssfsi.o)
+ .data          0x0000000000800100        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_addsub_sf.o)
+ .data          0x0000000000800100        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_mul_sf.o)
+ .data          0x0000000000800100        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_div_sf.o)
+ .data          0x0000000000800100        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_gt_sf.o)
+ .data          0x0000000000800100        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_ge_sf.o)
+ .data          0x0000000000800100        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_lt_sf.o)
+ .data          0x0000000000800100        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_le_sf.o)
+ .data          0x0000000000800100        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_unord_sf.o)
+ .data          0x0000000000800100        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_si_to_sf.o)
+ .data          0x0000000000800100        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_sf_to_si.o)
+ .data          0x0000000000800100        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_thenan_sf.o)
+ .data          0x0000000000800100        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_usi_to_sf.o)
+ .data          0x0000000000800100        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_prologue.o)
+ .data          0x0000000000800100        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_epilogue.o)
+ .data          0x0000000000800100        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_tablejump.o)
+ .data          0x0000000000800100        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_clzsi2.o)
+ .data          0x0000000000800100        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_clzhi2.o)
+ .data          0x0000000000800100        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_pack_sf.o)
+ .data          0x0000000000800100        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_unpack_sf.o)
+ .data          0x0000000000800100        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_fpcmp_parts_sf.o)
+ .data          0x0000000000800100        0x0 /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(atol.o)
+ .data          0x0000000000800100        0x0 /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(isspace.o)
+ .data          0x0000000000800100        0x0 /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(tolower.o)
+ .data          0x0000000000800100        0x0 /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(toupper.o)
+ .data          0x0000000000800100        0x0 /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(memcpy.o)
+ .data          0x0000000000800100        0x0 /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(memmove.o)
+ .data          0x0000000000800100        0x0 /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(strchr.o)
+ .data          0x0000000000800100        0x0 /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(strcmp.o)
+ .data          0x0000000000800100        0x0 /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(strcpy.o)
+ .data          0x0000000000800100        0x0 /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(strncmp.o)
+ .data          0x0000000000800100        0x0 /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(strncpy.o)
+ .data          0x0000000000800100        0x0 /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(strrchr.o)
+ .data          0x0000000000800100        0x0 /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(strstr.o)
+ .data          0x0000000000800100        0x0 /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(itoa.o)
+ .data          0x0000000000800100        0x0 /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(ltoa.o)
+ .data          0x0000000000800100        0x0 /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(mulsi10.o)
+ .data          0x0000000000800100        0x0 /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(ultoa.o)
+ .data          0x0000000000800100        0x0 /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(utoa.o)
+ .data          0x0000000000800100        0x0 /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(cty_isfalse.o)
+ .data          0x0000000000800100        0x0 /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(strrev.o)
+ .data          0x0000000000800100        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_udivmodhi4.o)
+ *(.data*)
+ .data._serialPeek
+                0x0000000000800100        0x2 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(CDC.o)
+                0x0000000000800100                _serialPeek
+ .data._ZL12_usbLineInfo
+                0x0000000000800102        0x8 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(CDC.o)
+ .data.__brkval_maximum
+                0x000000000080010a        0x2 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(malloc.o)
+                0x000000000080010a                __brkval_maximum
+ .data.__brkval
+                0x000000000080010c        0x2 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(malloc.o)
+                0x000000000080010c                __brkval
+ .data._hid_idle
+                0x000000000080010e        0x1 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(HID.o)
+                0x000000000080010e                _hid_idle
+ .data._hid_protocol
+                0x000000000080010f        0x1 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(HID.o)
+                0x000000000080010f                _hid_protocol
+ *(.rodata)
+ .rodata        0x0000000000800110        0x8 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_thenan_sf.o)
+                0x0000000000800110                __thenan_sf
+ *(.rodata*)
+ .rodata.str1.1
+                0x0000000000800118       0x10 ./main.o
+ .rodata._ZTV7Serial_
+                0x0000000000800128       0x12 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(CDC.o)
+                0x0000000000800128                _ZTV7Serial_
+ .rodata._ZTV14HardwareSerial
+                0x000000000080013a       0x10 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(HardwareSerial.o)
+                0x000000000080013a                _ZTV14HardwareSerial
+ .rodata._ZTV6Stream
+                0x000000000080014a       0x10 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(HardwareSerial.o)
+                0x000000000080014a                _ZTV6Stream
+ .rodata.str1.1
+                0x000000000080015a        0xc /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(Print.o)
+                                          0xe (size before relaxing)
+ .rodata._ZTV5Print
+                0x0000000000800166        0x8 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(Print.o)
+                0x0000000000800166                _ZTV5Print
+ .rodata.str1.1
+                0x0000000000000000        0xc /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(WString.o)
+                                          0x1 (size before relaxing)
+ .rodata._ZTV9Keyboard_
+                0x000000000080016e        0xe /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(HID.o)
+                0x000000000080016e                _ZTV9Keyboard_
+ *(.gnu.linkonce.d*)
+                0x000000000080017c                . = ALIGN (0x2)
+                0x000000000080017c                _edata = .
+                0x000000000080017c                PROVIDE (__data_end, .)
+
+.bss            0x000000000080017c      0x1a6
+                0x000000000080017c                PROVIDE (__bss_start, .)
+ *(.bss)
+ .bss           0x000000000080017c        0x0 /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/crtm32u4.o
+ .bss           0x000000000080017c        0x0 ./main.o
+ .bss           0x000000000080017c        0x0 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(CDC.o)
+ .bss           0x000000000080017c        0x0 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(HardwareSerial.o)
+ .bss           0x000000000080017c        0x0 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(Print.o)
+ .bss           0x000000000080017c        0x0 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(USBCore.o)
+ .bss           0x000000000080017c        0x0 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(WString.o)
+ .bss           0x000000000080017c        0x0 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(main.o)
+ .bss           0x000000000080017c        0x0 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(malloc.o)
+ .bss           0x000000000080017c        0x0 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(new.o)
+ .bss           0x000000000080017c        0x0 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(wiring.o)
+ .bss           0x000000000080017c        0x0 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(HID.o)
+ .bss           0x000000000080017c        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_udivmodsi4.o)
+ .bss           0x000000000080017c        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_exit.o)
+ .bss           0x000000000080017c        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_copy_data.o)
+ .bss           0x000000000080017c        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_clear_bss.o)
+ .bss           0x000000000080017c        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_ctors.o)
+ .bss           0x000000000080017c        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_fixunssfsi.o)
+ .bss           0x000000000080017c        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_addsub_sf.o)
+ .bss           0x000000000080017c        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_mul_sf.o)
+ .bss           0x000000000080017c        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_div_sf.o)
+ .bss           0x000000000080017c        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_gt_sf.o)
+ .bss           0x000000000080017c        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_ge_sf.o)
+ .bss           0x000000000080017c        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_lt_sf.o)
+ .bss           0x000000000080017c        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_le_sf.o)
+ .bss           0x000000000080017c        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_unord_sf.o)
+ .bss           0x000000000080017c        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_si_to_sf.o)
+ .bss           0x000000000080017c        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_sf_to_si.o)
+ .bss           0x000000000080017c        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_thenan_sf.o)
+ .bss           0x000000000080017c        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_usi_to_sf.o)
+ .bss           0x000000000080017c        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_prologue.o)
+ .bss           0x000000000080017c        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_epilogue.o)
+ .bss           0x000000000080017c        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_tablejump.o)
+ .bss           0x000000000080017c        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_clzsi2.o)
+ .bss           0x000000000080017c        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_clzhi2.o)
+ .bss           0x000000000080017c        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_pack_sf.o)
+ .bss           0x000000000080017c        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_unpack_sf.o)
+ .bss           0x000000000080017c        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_fpcmp_parts_sf.o)
+ .bss           0x000000000080017c        0x0 /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(atol.o)
+ .bss           0x000000000080017c        0x0 /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(isspace.o)
+ .bss           0x000000000080017c        0x0 /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(tolower.o)
+ .bss           0x000000000080017c        0x0 /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(toupper.o)
+ .bss           0x000000000080017c        0x0 /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(memcpy.o)
+ .bss           0x000000000080017c        0x0 /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(memmove.o)
+ .bss           0x000000000080017c        0x0 /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(strchr.o)
+ .bss           0x000000000080017c        0x0 /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(strcmp.o)
+ .bss           0x000000000080017c        0x0 /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(strcpy.o)
+ .bss           0x000000000080017c        0x0 /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(strncmp.o)
+ .bss           0x000000000080017c        0x0 /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(strncpy.o)
+ .bss           0x000000000080017c        0x0 /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(strrchr.o)
+ .bss           0x000000000080017c        0x0 /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(strstr.o)
+ .bss           0x000000000080017c        0x0 /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(itoa.o)
+ .bss           0x000000000080017c        0x0 /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(ltoa.o)
+ .bss           0x000000000080017c        0x0 /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(mulsi10.o)
+ .bss           0x000000000080017c        0x0 /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(ultoa.o)
+ .bss           0x000000000080017c        0x0 /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(utoa.o)
+ .bss           0x000000000080017c        0x0 /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(cty_isfalse.o)
+ .bss           0x000000000080017c        0x0 /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(strrev.o)
+ .bss           0x000000000080017c        0x0 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_udivmodhi4.o)
+ *(.bss*)
+ .bss.Serial    0x000000000080017c        0xe /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(CDC.o)
+                0x000000000080017c                Serial
+ .bss.cdc_rx_buffer
+                0x000000000080018a       0x44 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(CDC.o)
+                0x000000000080018a                cdc_rx_buffer
+ .bss.Serial1   0x00000000008001ce       0x22 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(HardwareSerial.o)
+                0x00000000008001ce                Serial1
+ .bss.tx_buffer1
+                0x00000000008001f0       0x44 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(HardwareSerial.o)
+                0x00000000008001f0                tx_buffer1
+ .bss.rx_buffer1
+                0x0000000000800234       0x44 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(HardwareSerial.o)
+                0x0000000000800234                rx_buffer1
+ .bss.tx_buffer
+                0x0000000000800278       0x44 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(HardwareSerial.o)
+                0x0000000000800278                tx_buffer
+ .bss.rx_buffer
+                0x00000000008002bc       0x44 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(HardwareSerial.o)
+                0x00000000008002bc                rx_buffer
+ .bss.USBDevice
+                0x0000000000800300        0x1 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(USBCore.o)
+                0x0000000000800300                USBDevice
+ .bss._cdcComposite
+                0x0000000000800301        0x1 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(USBCore.o)
+                0x0000000000800301                _cdcComposite
+ .bss._cend     0x0000000000800302        0x2 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(USBCore.o)
+                0x0000000000800302                _cend
+ .bss._cmark    0x0000000000800304        0x2 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(USBCore.o)
+                0x0000000000800304                _cmark
+ .bss._usbConfiguration
+                0x0000000000800306        0x1 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(USBCore.o)
+                0x0000000000800306                _usbConfiguration
+ .bss.RxLEDPulse
+                0x0000000000800307        0x1 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(USBCore.o)
+                0x0000000000800307                RxLEDPulse
+ .bss.TxLEDPulse
+                0x0000000000800308        0x1 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(USBCore.o)
+                0x0000000000800308                TxLEDPulse
+ .bss._ZZN6StringixEjE19dummy_writable_char
+                0x0000000000800309        0x1 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(WString.o)
+ .bss.timer0_millis
+                0x000000000080030a        0x4 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(wiring.o)
+                0x000000000080030a                timer0_millis
+ .bss.timer0_overflow_count
+                0x000000000080030e        0x4 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(wiring.o)
+                0x000000000080030e                timer0_overflow_count
+ .bss.timer0_fract
+                0x0000000000800312        0x1 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(wiring.o)
+ .bss.Keyboard  0x0000000000800313        0xc /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(HID.o)
+                0x0000000000800313                Keyboard
+ .bss.Mouse     0x000000000080031f        0x1 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(HID.o)
+                0x000000000080031f                Mouse
+ *(COMMON)
+ COMMON         0x0000000000800320        0x2 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(malloc.o)
+                0x0000000000800320                __flp
+                0x0000000000800322                PROVIDE (__bss_end, .)
+                0x0000000000004500                __data_load_start = LOADADDR (.data)
+                0x000000000000457c                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x0000000000800322        0x0
+                0x0000000000800322                PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                0x0000000000800322                PROVIDE (__noinit_end, .)
+                0x0000000000800322                _end = .
+                0x0000000000800322                PROVIDE (__heap_start, .)
+
+.eeprom         0x0000000000810000        0x0
+ *(.eeprom*)
+                0x0000000000810000                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.stab           0x0000000000000000     0x2b8c
+ *(.stab)
+ .stab          0x0000000000000000      0x6cc /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/crtm32u4.o
+ .stab          0x00000000000006cc      0x9cc /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(malloc.o)
+                                        0x9d8 (size before relaxing)
+ .stab          0x0000000000001098      0x738 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(wiring.o)
+                                        0x924 (size before relaxing)
+ .stab          0x00000000000017d0      0x1e0 /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(atol.o)
+                                        0x1ec (size before relaxing)
+ .stab          0x00000000000019b0       0x9c /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(isspace.o)
+                                         0xa8 (size before relaxing)
+ .stab          0x0000000000001a4c       0x9c /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(tolower.o)
+                                         0xa8 (size before relaxing)
+ .stab          0x0000000000001ae8       0x9c /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(toupper.o)
+                                         0xa8 (size before relaxing)
+ .stab          0x0000000000001b84       0x84 /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(memcpy.o)
+                                         0x90 (size before relaxing)
+ .stab          0x0000000000001c08       0xe4 /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(memmove.o)
+                                         0xf0 (size before relaxing)
+ .stab          0x0000000000001cec       0x9c /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(strchr.o)
+                                         0xa8 (size before relaxing)
+ .stab          0x0000000000001d88       0x84 /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(strcmp.o)
+                                         0x90 (size before relaxing)
+ .stab          0x0000000000001e0c       0x6c /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(strcpy.o)
+                                         0x78 (size before relaxing)
+ .stab          0x0000000000001e78       0xc0 /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(strncmp.o)
+                                         0xcc (size before relaxing)
+ .stab          0x0000000000001f38       0xcc /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(strncpy.o)
+                                         0xd8 (size before relaxing)
+ .stab          0x0000000000002004       0x9c /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(strrchr.o)
+                                         0xa8 (size before relaxing)
+ .stab          0x00000000000020a0      0x150 /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(strstr.o)
+                                        0x15c (size before relaxing)
+ .stab          0x00000000000021f0      0x1b0 /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(itoa.o)
+                                        0x1bc (size before relaxing)
+ .stab          0x00000000000023a0      0x294 /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(ltoa.o)
+                                        0x2a0 (size before relaxing)
+ .stab          0x0000000000002634      0x114 /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(mulsi10.o)
+                                        0x120 (size before relaxing)
+ .stab          0x0000000000002748      0x1e0 /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(ultoa.o)
+                                        0x1ec (size before relaxing)
+ .stab          0x0000000000002928      0x12c /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(utoa.o)
+                                        0x138 (size before relaxing)
+ .stab          0x0000000000002a54       0x60 /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(cty_isfalse.o)
+                                         0x6c (size before relaxing)
+ .stab          0x0000000000002ab4       0xd8 /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(strrev.o)
+                                         0xe4 (size before relaxing)
+
+.stabstr        0x0000000000000000     0x1094
+ *(.stabstr)
+ .stabstr       0x0000000000000000     0x1094 /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/crtm32u4.o
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x0000000000000000       0x11
+ *(.comment)
+ .comment       0x0000000000000000       0x11 ./main.o
+                                         0x12 (size before relaxing)
+ .comment       0x0000000000000000       0x12 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(CDC.o)
+ .comment       0x0000000000000000       0x12 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(HardwareSerial.o)
+ .comment       0x0000000000000000       0x12 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(Print.o)
+ .comment       0x0000000000000000       0x12 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(USBCore.o)
+ .comment       0x0000000000000000       0x12 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(WString.o)
+ .comment       0x0000000000000000       0x12 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(main.o)
+ .comment       0x0000000000000000       0x12 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(malloc.o)
+ .comment       0x0000000000000000       0x12 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(new.o)
+ .comment       0x0000000000000000       0x12 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(wiring.o)
+ .comment       0x0000000000000000       0x12 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(HID.o)
+ .comment       0x0000000000000000       0x12 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_fixunssfsi.o)
+ .comment       0x0000000000000000       0x12 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_addsub_sf.o)
+ .comment       0x0000000000000000       0x12 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_mul_sf.o)
+ .comment       0x0000000000000000       0x12 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_div_sf.o)
+ .comment       0x0000000000000000       0x12 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_gt_sf.o)
+ .comment       0x0000000000000000       0x12 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_ge_sf.o)
+ .comment       0x0000000000000000       0x12 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_lt_sf.o)
+ .comment       0x0000000000000000       0x12 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_le_sf.o)
+ .comment       0x0000000000000000       0x12 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_unord_sf.o)
+ .comment       0x0000000000000000       0x12 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_si_to_sf.o)
+ .comment       0x0000000000000000       0x12 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_sf_to_si.o)
+ .comment       0x0000000000000000       0x12 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_thenan_sf.o)
+ .comment       0x0000000000000000       0x12 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_usi_to_sf.o)
+ .comment       0x0000000000000000       0x12 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_pack_sf.o)
+ .comment       0x0000000000000000       0x12 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_unpack_sf.o)
+ .comment       0x0000000000000000       0x12 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_fpcmp_parts_sf.o)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges
+ *(.debug_aranges)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info
+ *(.debug_info)
+ *(.gnu.linkonce.wi.*)
+
+.debug_abbrev
+ *(.debug_abbrev)
+
+.debug_line
+ *(.debug_line)
+
+.debug_frame
+ *(.debug_frame)
+
+.debug_str
+ *(.debug_str)
+
+.debug_loc
+ *(.debug_loc)
+
+.debug_macinfo
+ *(.debug_macinfo)
+OUTPUT(bluetooth.elf elf32-avr)
+LOAD linker stubs
+
+Cross Reference Table
+
+Symbol                                            File
+CDC_GetInterface(unsigned char*)                  /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(CDC.o)
+                                                  /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(USBCore.o)
+CDC_Setup(Setup&)                                 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(CDC.o)
+                                                  /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(USBCore.o)
+HID_GetDescriptor(int)                            /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(HID.o)
+                                                  /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(USBCore.o)
+HID_GetInterface(unsigned char*)                  /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(HID.o)
+                                                  /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(USBCore.o)
+HID_SendReport(unsigned char, void const*, int)   /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(HID.o)
+HID_Setup(Setup&)                                 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(HID.o)
+                                                  /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(USBCore.o)
+HardwareSerial::HardwareSerial(ring_buffer*, ring_buffer*, unsigned char volatile*, unsigned char volatile*, unsigned char volatile*, unsigned char volatile*, unsigned char volatile*, unsigned char volatile*, unsigned char, unsigned char, unsigned char, unsigned char, unsigned char) /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(HardwareSerial.o)
+HardwareSerial::HardwareSerial(ring_buffer*, ring_buffer*, unsigned char volatile*, unsigned char volatile*, unsigned char volatile*, unsigned char volatile*, unsigned char volatile*, unsigned char volatile*, unsigned char, unsigned char, unsigned char, unsigned char, unsigned char) /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(HardwareSerial.o)
+HardwareSerial::available()                       /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(HardwareSerial.o)
+HardwareSerial::begin(unsigned long)              /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(HardwareSerial.o)
+                                                  ./main.o
+HardwareSerial::begin(unsigned long, unsigned char) /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(HardwareSerial.o)
+HardwareSerial::end()                             /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(HardwareSerial.o)
+HardwareSerial::flush()                           /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(HardwareSerial.o)
+HardwareSerial::operator bool()                   /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(HardwareSerial.o)
+HardwareSerial::peek()                            /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(HardwareSerial.o)
+HardwareSerial::read()                            /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(HardwareSerial.o)
+HardwareSerial::write(unsigned char)              /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(HardwareSerial.o)
+InitControl(int)                                  /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(USBCore.o)
+Keyboard                                          /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(HID.o)
+Keyboard_::Keyboard_()                            /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(HID.o)
+Keyboard_::Keyboard_()                            /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(HID.o)
+Keyboard_::begin()                                /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(HID.o)
+Keyboard_::end()                                  /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(HID.o)
+Keyboard_::press(unsigned char)                   /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(HID.o)
+Keyboard_::release(unsigned char)                 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(HID.o)
+Keyboard_::releaseAll()                           /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(HID.o)
+Keyboard_::sendReport(KeyReport*)                 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(HID.o)
+Keyboard_::write(unsigned char)                   /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(HID.o)
+LockEP::LockEP(unsigned char)                     /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(USBCore.o)
+LockEP::LockEP(unsigned char)                     /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(USBCore.o)
+Mouse                                             /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(HID.o)
+Mouse_::Mouse_()                                  /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(HID.o)
+Mouse_::Mouse_()                                  /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(HID.o)
+Mouse_::begin()                                   /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(HID.o)
+Mouse_::buttons(unsigned char)                    /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(HID.o)
+Mouse_::click(unsigned char)                      /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(HID.o)
+Mouse_::end()                                     /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(HID.o)
+Mouse_::isPressed(unsigned char)                  /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(HID.o)
+Mouse_::move(signed char, signed char, signed char) /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(HID.o)
+Mouse_::press(unsigned char)                      /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(HID.o)
+Mouse_::release(unsigned char)                    /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(HID.o)
+Print::print(Printable const&)                    /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(Print.o)
+Print::print(String const&)                       /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(Print.o)
+Print::print(__FlashStringHelper const*)          /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(Print.o)
+Print::print(char const*)                         /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(Print.o)
+                                                  ./main.o
+Print::print(char)                                /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(Print.o)
+Print::print(double, int)                         /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(Print.o)
+Print::print(int, int)                            /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(Print.o)
+Print::print(long, int)                           /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(Print.o)
+Print::print(unsigned char, int)                  /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(Print.o)
+Print::print(unsigned int, int)                   /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(Print.o)
+Print::print(unsigned long, int)                  /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(Print.o)
+Print::printFloat(double, unsigned char)          /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(Print.o)
+Print::printNumber(unsigned long, unsigned char)  /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(Print.o)
+Print::println()                                  /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(Print.o)
+Print::println(Printable const&)                  /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(Print.o)
+Print::println(String const&)                     /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(Print.o)
+Print::println(__FlashStringHelper const*)        /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(Print.o)
+Print::println(char const*)                       /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(Print.o)
+Print::println(char)                              /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(Print.o)
+Print::println(double, int)                       /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(Print.o)
+Print::println(int, int)                          /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(Print.o)
+Print::println(long, int)                         /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(Print.o)
+Print::println(unsigned char, int)                /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(Print.o)
+Print::println(unsigned int, int)                 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(Print.o)
+Print::println(unsigned long, int)                /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(Print.o)
+Print::write(char const*)                         /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(Print.o)
+Print::write(unsigned char const*, unsigned int)  /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(Print.o)
+                                                  /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(HID.o)
+                                                  /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(HardwareSerial.o)
+                                                  /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(CDC.o)
+Recv(unsigned char volatile*, unsigned char)      /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(USBCore.o)
+RxLEDPulse                                        /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(USBCore.o)
+STRING_IMANUFACTURER                              /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(USBCore.o)
+STRING_IPRODUCT                                   /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(USBCore.o)
+STRING_LANGUAGE                                   /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(USBCore.o)
+SendInterfaces()                                  /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(USBCore.o)
+Serial                                            /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(CDC.o)
+                                                  /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(USBCore.o)
+                                                  ./main.o
+Serial1                                           /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(HardwareSerial.o)
+                                                  ./main.o
+Serial_::accept()                                 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(CDC.o)
+                                                  /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(USBCore.o)
+Serial_::available()                              /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(CDC.o)
+Serial_::begin(unsigned int)                      /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(CDC.o)
+                                                  ./main.o
+Serial_::end()                                    /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(CDC.o)
+Serial_::flush()                                  /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(CDC.o)
+Serial_::operator bool()                          /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(CDC.o)
+Serial_::peek()                                   /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(CDC.o)
+Serial_::read()                                   /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(CDC.o)
+Serial_::write(unsigned char)                     /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(CDC.o)
+String::String(String const&)                     /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(WString.o)
+String::String(String const&)                     /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(WString.o)
+String::String(char const*)                       /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(WString.o)
+String::String(char const*)                       /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(WString.o)
+String::String(char)                              /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(WString.o)
+String::String(char)                              /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(WString.o)
+String::String(int, unsigned char)                /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(WString.o)
+String::String(int, unsigned char)                /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(WString.o)
+String::String(long, unsigned char)               /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(WString.o)
+String::String(long, unsigned char)               /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(WString.o)
+String::String(unsigned char, unsigned char)      /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(WString.o)
+String::String(unsigned char, unsigned char)      /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(WString.o)
+String::String(unsigned int, unsigned char)       /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(WString.o)
+String::String(unsigned int, unsigned char)       /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(WString.o)
+String::String(unsigned long, unsigned char)      /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(WString.o)
+String::String(unsigned long, unsigned char)      /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(WString.o)
+String::changeBuffer(unsigned int)                /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(WString.o)
+String::charAt(unsigned int) const                /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(WString.o)
+String::compareTo(String const&) const            /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(WString.o)
+String::concat(String const&)                     /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(WString.o)
+String::concat(char const*)                       /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(WString.o)
+String::concat(char const*, unsigned int)         /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(WString.o)
+String::concat(char)                              /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(WString.o)
+String::concat(int)                               /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(WString.o)
+String::concat(long)                              /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(WString.o)
+String::concat(unsigned char)                     /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(WString.o)
+String::concat(unsigned int)                      /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(WString.o)
+String::concat(unsigned long)                     /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(WString.o)
+String::copy(char const*, unsigned int)           /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(WString.o)
+String::endsWith(String const&) const             /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(WString.o)
+String::equals(String const&) const               /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(WString.o)
+String::equals(char const*) const                 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(WString.o)
+String::equalsIgnoreCase(String const&) const     /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(WString.o)
+String::getBytes(unsigned char*, unsigned int, unsigned int) const /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(WString.o)
+String::indexOf(String const&) const              /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(WString.o)
+String::indexOf(String const&, unsigned int) const /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(WString.o)
+String::indexOf(char) const                       /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(WString.o)
+String::indexOf(char, unsigned int) const         /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(WString.o)
+String::invalidate()                              /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(WString.o)
+String::lastIndexOf(String const&) const          /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(WString.o)
+String::lastIndexOf(String const&, unsigned int) const /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(WString.o)
+String::lastIndexOf(char) const                   /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(WString.o)
+String::lastIndexOf(char, unsigned int) const     /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(WString.o)
+String::operator<(String const&) const            /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(WString.o)
+String::operator<=(String const&) const           /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(WString.o)
+String::operator=(String const&)                  /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(WString.o)
+String::operator=(char const*)                    /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(WString.o)
+String::operator>(String const&) const            /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(WString.o)
+String::operator>=(String const&) const           /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(WString.o)
+String::operator[](unsigned int)                  /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(WString.o)
+String::operator[](unsigned int) const            /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(WString.o)
+                                                  /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(Print.o)
+String::replace(String const&, String const&)     /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(WString.o)
+String::replace(char, char)                       /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(WString.o)
+String::reserve(unsigned int)                     /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(WString.o)
+String::setCharAt(unsigned int, char)             /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(WString.o)
+String::startsWith(String const&) const           /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(WString.o)
+String::startsWith(String const&, unsigned int) const /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(WString.o)
+String::substring(unsigned int) const             /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(WString.o)
+String::substring(unsigned int, unsigned int) const /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(WString.o)
+String::toInt() const                             /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(WString.o)
+String::toLowerCase()                             /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(WString.o)
+String::toUpperCase()                             /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(WString.o)
+String::trim()                                    /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(WString.o)
+String::~String()                                 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(WString.o)
+String::~String()                                 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(WString.o)
+TxLEDPulse                                        /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(USBCore.o)
+USBConnected()                                    /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(USBCore.o)
+USBDevice                                         /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(USBCore.o)
+                                                  /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(main.o)
+USBDevice_::USBDevice_()                          /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(USBCore.o)
+USBDevice_::USBDevice_()                          /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(USBCore.o)
+USBDevice_::attach()                              /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(USBCore.o)
+                                                  /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(main.o)
+USBDevice_::configured()                          /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(USBCore.o)
+USBDevice_::detach()                              /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(USBCore.o)
+USBDevice_::poll()                                /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(USBCore.o)
+USBGetConfiguration()                             /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(USBCore.o)
+USB_Available(unsigned char)                      /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(USBCore.o)
+USB_DeviceDescriptor                              /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(USBCore.o)
+USB_DeviceDescriptorA                             /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(USBCore.o)
+USB_Flush(unsigned char)                          /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(USBCore.o)
+                                                  /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(CDC.o)
+USB_Recv(unsigned char)                           /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(USBCore.o)
+                                                  /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(CDC.o)
+USB_Recv(unsigned char, void*, int)               /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(USBCore.o)
+USB_RecvControl(void*, int)                       /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(USBCore.o)
+                                                  /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(CDC.o)
+USB_Send(unsigned char, void const*, int)         /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(USBCore.o)
+                                                  /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(HID.o)
+                                                  /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(CDC.o)
+USB_SendControl(unsigned char, void const*, int)  /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(USBCore.o)
+                                                  /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(HID.o)
+                                                  /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(CDC.o)
+USB_SendSpace(unsigned char)                      /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(USBCore.o)
+__addsf3                                          /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_addsub_sf.o)
+                                                  /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(Print.o)
+__bad_interrupt                                   /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/crtm32u4.o
+__brkval                                          /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(malloc.o)
+__brkval_maximum                                  /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(malloc.o)
+__bss_end                                         /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_clear_bss.o)
+__bss_start                                       /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_clear_bss.o)
+__clzhi2                                          /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_clzhi2.o)
+                                                  /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_clzsi2.o)
+__clzsi2                                          /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_clzsi2.o)
+                                                  /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_usi_to_sf.o)
+                                                  /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_si_to_sf.o)
+__ctors_end                                       /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_ctors.o)
+__ctors_start                                     /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_ctors.o)
+__ctype_isfalse                                   /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(cty_isfalse.o)
+                                                  /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(isspace.o)
+__ctype_istrue                                    /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(cty_isfalse.o)
+__cxa_guard_abort                                 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(new.o)
+__cxa_guard_acquire                               /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(new.o)
+__cxa_guard_release                               /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(new.o)
+__cxa_pure_virtual                                /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(new.o)
+                                                  /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(Print.o)
+                                                  /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(HardwareSerial.o)
+__data_end                                        /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_copy_data.o)
+__data_load_start                                 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_copy_data.o)
+__data_start                                      /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_copy_data.o)
+__divsf3                                          /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_div_sf.o)
+                                                  /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(Print.o)
+__do_clear_bss                                    /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_clear_bss.o)
+                                                  /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(HID.o)
+                                                  /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(wiring.o)
+                                                  /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(malloc.o)
+                                                  /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(WString.o)
+                                                  /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(USBCore.o)
+                                                  /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(HardwareSerial.o)
+                                                  /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(CDC.o)
+__do_copy_data                                    /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_copy_data.o)
+                                                  /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_thenan_sf.o)
+                                                  /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(HID.o)
+                                                  /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(malloc.o)
+                                                  /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(WString.o)
+                                                  /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(Print.o)
+                                                  /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(HardwareSerial.o)
+                                                  /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(CDC.o)
+                                                  ./main.o
+__do_global_ctors                                 /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_ctors.o)
+                                                  /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(HID.o)
+                                                  /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(HardwareSerial.o)
+                                                  /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(CDC.o)
+__epilogue_restores__                             /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_epilogue.o)
+                                                  /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_usi_to_sf.o)
+                                                  /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_sf_to_si.o)
+                                                  /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_si_to_sf.o)
+                                                  /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_unord_sf.o)
+                                                  /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_le_sf.o)
+                                                  /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_lt_sf.o)
+                                                  /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_ge_sf.o)
+                                                  /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_gt_sf.o)
+                                                  /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_div_sf.o)
+                                                  /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_mul_sf.o)
+                                                  /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_addsub_sf.o)
+__fixsfsi                                         /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_sf_to_si.o)
+                                                  /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_fixunssfsi.o)
+                                                  /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(Print.o)
+__fixunssfsi                                      /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_fixunssfsi.o)
+                                                  /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(Print.o)
+__floatsisf                                       /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_si_to_sf.o)
+                                                  /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(Print.o)
+__floatunsisf                                     /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_usi_to_sf.o)
+                                                  /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(Print.o)
+__flp                                             /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(malloc.o)
+__fpcmp_parts_f                                   /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_fpcmp_parts_sf.o)
+                                                  /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_le_sf.o)
+                                                  /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_lt_sf.o)
+                                                  /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_ge_sf.o)
+                                                  /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_gt_sf.o)
+__gesf2                                           /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_ge_sf.o)
+                                                  /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_fixunssfsi.o)
+__gtsf2                                           /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_gt_sf.o)
+                                                  /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(Print.o)
+__heap_end                                        /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/crtm32u4.o
+__heap_start                                      /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(malloc.o)
+__init                                            /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/crtm32u4.o
+__lesf2                                           /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_le_sf.o)
+                                                  /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(Print.o)
+__ltsf2                                           /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_lt_sf.o)
+                                                  /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(Print.o)
+__mulsf3                                          /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_mul_sf.o)
+                                                  /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(Print.o)
+__mulsi_const_10                                  /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(mulsi10.o)
+                                                  /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(atol.o)
+__pack_f                                          /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_pack_sf.o)
+                                                  /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_usi_to_sf.o)
+                                                  /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_si_to_sf.o)
+                                                  /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_div_sf.o)
+                                                  /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_mul_sf.o)
+                                                  /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_addsub_sf.o)
+__prologue_saves__                                /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_prologue.o)
+                                                  /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_usi_to_sf.o)
+                                                  /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_sf_to_si.o)
+                                                  /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_si_to_sf.o)
+                                                  /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_unord_sf.o)
+                                                  /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_le_sf.o)
+                                                  /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_lt_sf.o)
+                                                  /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_ge_sf.o)
+                                                  /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_gt_sf.o)
+                                                  /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_div_sf.o)
+                                                  /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_mul_sf.o)
+                                                  /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_addsub_sf.o)
+__stack                                           /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/crtm32u4.o
+__subsf3                                          /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_addsub_sf.o)
+                                                  /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_fixunssfsi.o)
+                                                  /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(Print.o)
+__tablejump2__                                    /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_tablejump.o)
+__tablejump__                                     /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_tablejump.o)
+                                                  /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_ctors.o)
+__thenan_sf                                       /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_thenan_sf.o)
+                                                  /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_div_sf.o)
+                                                  /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_mul_sf.o)
+                                                  /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_addsub_sf.o)
+__udivmodhi4                                      /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_udivmodhi4.o)
+                                                  /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(utoa.o)
+                                                  /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(itoa.o)
+__udivmodsi4                                      /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_udivmodsi4.o)
+                                                  /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(ultoa.o)
+                                                  /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(ltoa.o)
+                                                  /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(Print.o)
+                                                  /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(HardwareSerial.o)
+__unordsf2                                        /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_unord_sf.o)
+                                                  /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(Print.o)
+__unpack_f                                        /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_unpack_sf.o)
+                                                  /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_sf_to_si.o)
+                                                  /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_unord_sf.o)
+                                                  /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_le_sf.o)
+                                                  /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_lt_sf.o)
+                                                  /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_ge_sf.o)
+                                                  /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_gt_sf.o)
+                                                  /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_div_sf.o)
+                                                  /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_mul_sf.o)
+                                                  /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_addsub_sf.o)
+__vector_1                                        /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/crtm32u4.o
+__vector_10                                       /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(USBCore.o)
+                                                  /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/crtm32u4.o
+__vector_11                                       /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(USBCore.o)
+                                                  /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/crtm32u4.o
+__vector_12                                       /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/crtm32u4.o
+__vector_13                                       /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/crtm32u4.o
+__vector_14                                       /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/crtm32u4.o
+__vector_15                                       /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/crtm32u4.o
+__vector_16                                       /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/crtm32u4.o
+__vector_17                                       /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/crtm32u4.o
+__vector_18                                       /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/crtm32u4.o
+__vector_19                                       /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/crtm32u4.o
+__vector_2                                        /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/crtm32u4.o
+__vector_20                                       /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/crtm32u4.o
+__vector_21                                       /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/crtm32u4.o
+__vector_22                                       /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/crtm32u4.o
+__vector_23                                       /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(wiring.o)
+                                                  /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/crtm32u4.o
+__vector_24                                       /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/crtm32u4.o
+__vector_25                                       /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(HardwareSerial.o)
+                                                  /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/crtm32u4.o
+__vector_26                                       /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(HardwareSerial.o)
+                                                  /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/crtm32u4.o
+__vector_27                                       /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/crtm32u4.o
+__vector_28                                       /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/crtm32u4.o
+__vector_29                                       /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/crtm32u4.o
+__vector_3                                        /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/crtm32u4.o
+__vector_30                                       /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/crtm32u4.o
+__vector_31                                       /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/crtm32u4.o
+__vector_32                                       /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/crtm32u4.o
+__vector_33                                       /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/crtm32u4.o
+__vector_34                                       /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/crtm32u4.o
+__vector_35                                       /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/crtm32u4.o
+__vector_36                                       /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/crtm32u4.o
+__vector_37                                       /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/crtm32u4.o
+__vector_38                                       /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/crtm32u4.o
+__vector_39                                       /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/crtm32u4.o
+__vector_4                                        /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/crtm32u4.o
+__vector_40                                       /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/crtm32u4.o
+__vector_41                                       /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/crtm32u4.o
+__vector_42                                       /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/crtm32u4.o
+__vector_5                                        /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/crtm32u4.o
+__vector_6                                        /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/crtm32u4.o
+__vector_7                                        /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/crtm32u4.o
+__vector_8                                        /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/crtm32u4.o
+__vector_9                                        /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/crtm32u4.o
+__vector_default                                  /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/crtm32u4.o
+__vectors                                         /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/crtm32u4.o
+_asciimap                                         /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(HID.o)
+_cdcComposite                                     /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(USBCore.o)
+_cdcInterface                                     /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(CDC.o)
+_cend                                             /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(USBCore.o)
+_cmark                                            /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(USBCore.o)
+_exit                                             /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_exit.o)
+_hidInterface                                     /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(HID.o)
+_hidReportDescriptor                              /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(HID.o)
+_hid_idle                                         /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(HID.o)
+_hid_protocol                                     /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(HID.o)
+_initEndpoints                                    /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(USBCore.o)
+_serialPeek                                       /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(CDC.o)
+_usbConfiguration                                 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(USBCore.o)
+atol                                              /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(atol.o)
+                                                  /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(WString.o)
+cdc_rx_buffer                                     /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(CDC.o)
+delay                                             /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(wiring.o)
+                                                  /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(USBCore.o)
+                                                  /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(CDC.o)
+                                                  ./main.o
+delayMicroseconds                                 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(wiring.o)
+exit                                              /usr/lib/gcc/avr/4.7.2/avr5/libgcc.a(_exit.o)
+                                                  /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/crtm32u4.o
+free                                              /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(malloc.o)
+                                                  /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(new.o)
+                                                  /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(WString.o)
+init                                              /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(wiring.o)
+                                                  /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(main.o)
+isspace                                           /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(isspace.o)
+                                                  /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(WString.o)
+itoa                                              /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(itoa.o)
+                                                  /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(WString.o)
+loop                                              ./main.o
+                                                  /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(main.o)
+ltoa                                              /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(ltoa.o)
+                                                  /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(WString.o)
+main                                              /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(main.o)
+                                                  /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/crtm32u4.o
+malloc                                            /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(malloc.o)
+                                                  /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(new.o)
+memcpy                                            /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(memcpy.o)
+                                                  /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(memmove.o)
+                                                  /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(malloc.o)
+                                                  /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(WString.o)
+memmove                                           /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(memmove.o)
+                                                  /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(WString.o)
+micros                                            /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(wiring.o)
+millis                                            /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(wiring.o)
+operator delete(void*)                            /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(new.o)
+operator new(unsigned int)                        /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(new.o)
+operator+(StringSumHelper const&, String const&)  /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(WString.o)
+operator+(StringSumHelper const&, char const*)    /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(WString.o)
+operator+(StringSumHelper const&, char)           /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(WString.o)
+operator+(StringSumHelper const&, int)            /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(WString.o)
+operator+(StringSumHelper const&, long)           /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(WString.o)
+operator+(StringSumHelper const&, unsigned char)  /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(WString.o)
+operator+(StringSumHelper const&, unsigned int)   /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(WString.o)
+operator+(StringSumHelper const&, unsigned long)  /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(WString.o)
+realloc                                           /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(malloc.o)
+                                                  /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(WString.o)
+rx_buffer                                         /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(HardwareSerial.o)
+rx_buffer1                                        /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(HardwareSerial.o)
+serialEvent1()                                    /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(HardwareSerial.o)
+serialEventRun()                                  /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(HardwareSerial.o)
+                                                  /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(main.o)
+setup                                             ./main.o
+                                                  /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(main.o)
+strchr                                            /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(strchr.o)
+                                                  /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(WString.o)
+strcmp                                            /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(strcmp.o)
+                                                  /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(WString.o)
+strcpy                                            /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(strcpy.o)
+                                                  /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(WString.o)
+strncmp                                           /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(strncmp.o)
+                                                  /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(WString.o)
+strncpy                                           /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(strncpy.o)
+                                                  /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(WString.o)
+strrchr                                           /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(strrchr.o)
+                                                  /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(WString.o)
+strrev                                            /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(strrev.o)
+                                                  /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(utoa.o)
+                                                  /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(ultoa.o)
+                                                  /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(ltoa.o)
+                                                  /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(itoa.o)
+strstr                                            /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(strstr.o)
+                                                  /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(WString.o)
+timer0_millis                                     /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(wiring.o)
+timer0_overflow_count                             /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(wiring.o)
+tolower                                           /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(tolower.o)
+                                                  /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(WString.o)
+toupper                                           /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(toupper.o)
+                                                  /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(WString.o)
+tx_buffer                                         /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(HardwareSerial.o)
+tx_buffer1                                        /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(HardwareSerial.o)
+ultoa                                             /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(ultoa.o)
+                                                  /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(WString.o)
+utoa                                              /usr/lib/gcc/avr/4.7.2/../../../avr/lib/avr5/libc.a(utoa.o)
+                                                  /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(WString.o)
+vtable for HardwareSerial                         /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(HardwareSerial.o)
+vtable for Keyboard_                              /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(HID.o)
+vtable for Print                                  /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(Print.o)
+vtable for Serial_                                /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(CDC.o)
+vtable for Stream                                 /home/leandro/workspace/ArduinoCore/Release/libArduinoCore.a(HardwareSerial.o)
